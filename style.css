@@ -11,7 +11,7 @@ body {
 }
 
 .accordion-content.open { 
-    max-height: 4000px; /* Increased max-height for more content */
+    max-height: 8000px; /* Increased max-height for more content */
 }
 
 .timeline-item:last-child .timeline-line { 
